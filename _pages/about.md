@@ -10,6 +10,9 @@ redirect_from:
 
 I am currently a first year graduate student at the University of Pennsylvania in the Computer and Information Science department. My ongoing research in the Computer Science department at University of Pennsylvania is focused on leveraging Natural Language Processing to study how language use varies with depression. My research is being supervised by Professor [Lyle Ungar](https://www.cis.upenn.edu/~ungar/) and Professor [Sharath Chandra Guntuku](https://sharathg.cis.upenn.edu). Professor [Lyle Ungar’s](https://www.cis.upenn.edu/~ungar/) research group develops explainable machine learning, deep learning, and natural language processing methods for psychology and medical research.
 
+Prior to joining the Master's program at Penn, I had worked with 
+
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
