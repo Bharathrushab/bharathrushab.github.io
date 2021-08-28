@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Shivani R Rapole CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,16 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Master of Science in Engineering in Computer and Information Science (CIS/MSE), University of Pennsylvania, 2021-2023 (expected)
+* M.Sc. (Hons.) Economics and B.E. (Hons.) Computer Science, Birla Institute of Technology and Science (BITS) Pilani - India, 2015-2020 [CGPA: 9.4/10]
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2020 - July 2021: Research Assistant
+  * Location: Indian Institute of Science, Bangalore - India (Collaboration with the Royal Dutch Shell Technology Centre, India)
+  * Duties included: 
+      * Developed a GAN (Generative Adversarial Network)-based deep learning technique to successfully generate super-resolved digital rock images from their low-resolution digital rock images which were acquired using CT scans of various sedimentary rocks. Studying the porosity of these super resolved rocks will facilitate the oil companies to identify the suitable location for oil drilling.
+Tech Stack: PyTorch library in Python, CUDA.
+      * Worked on developing a 3D CNN model to simultaneously super-resolve and segment the low-resolution digital rock images. 
+Tech Stack: PyTorch library in Python, CUDA.
+  * Supervisor: Professor [Phaneendra Yalavarthy](http://cds.iisc.ac.in/faculty/yalavarthy/)
 
 * Fall 2015: Research Assistant
   * Github University
@@ -29,12 +32,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages:  Python, MATLAB, C/C++, Java, R, HTML/CSS
+* Deep-Learning Frameworks:  PyTorch, Keras
+* Tools:  Image Processing Toolbox, OpenCV, Scrapy, SQL, MS Office, LaTeX, GitHub
 
 Publications
 ======
