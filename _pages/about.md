@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a first year graduate student at the University of Pennsylvania in the Computer and Information Science department. My ongoing research in the Computer Science department at University of Pennsylvania is focused on leveraging Natural Language Processing to study how language use varies with depression. My research is being supervised by Professor [Lyle Ungar](https://www.cis.upenn.edu/~ungar/) and Professor [Sharath Chandra Guntuku](https://sharathg.cis.upenn.edu). Professor [Lyle Ungar’s](https://www.cis.upenn.edu/~ungar/) research group develops explainable machine learning, deep learning, and natural language processing methods for psychology and medical research.
 
 A data-driven personal website
 ======
