@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Economics Department, BITS Pilani - India"
-date: 2019
+date: 2018
 location: "Hyderabad, India"
 ---
 **Courses** : Econometric Methods, Economics of Growth and Development, Economic Environment of Business
