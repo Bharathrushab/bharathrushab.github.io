@@ -1,5 +1,5 @@
 ---
-title: "Graduate Research Assistant"
+title: "Graduate Research Assistant (UPenn)"
 collection: teaching
 type: "Graduate Research"
 permalink: /teaching/2021-fall-RAship
