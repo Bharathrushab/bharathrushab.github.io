@@ -2,7 +2,7 @@
 title: "Undergraduate Research Intern"
 collection: teaching
 type: "Undergraduate Thesis"
-permalink: /teaching/2015-spring-teaching-2
+permalink: /teaching/2015-spring-teaching-20
 venue: "Computational Data Science Department, Indian Institute of Science"
 date: 2019-06-01
 location: "Bangalore, India"
