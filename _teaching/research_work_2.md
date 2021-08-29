@@ -1,0 +1,24 @@
+
+---
+title: "Graduate Research Assistant"
+collection: teaching
+type: "Graduate Research"
+permalink: /teaching/research_work_2
+venue: "School of Engineering and Applied Sciences,"
+date: 2020-06-01
+location: "University of Pennsylvania"
+---
+
+Research Assistant to Dr. [Lyle Ungar](https://www.cis.upenn.edu/~ungar/), Professor in Computer and Information Science at Penn Engineering and Psychology at the School of Arts & Sciences, and, Dr. [Sharath Chandra Guntuku](https://sharathg.cis.upenn.edu), an Assistant Professor (Research) in the Department of Computer and Information Science at the University of Pennsylvania.
+
+Research Overview
+======
+
+Professor [Lyle Ungar](https://www.cis.upenn.edu/~ungar/) is a renowned expert in the field of Artificial Intelligence and his research group actively develops explainable machine learning, deep learning, and natural language processing methods for psychology and medical research.
+
+
+My Contribution
+======
+
+ 
+
