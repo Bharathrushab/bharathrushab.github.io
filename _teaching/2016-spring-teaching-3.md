@@ -3,9 +3,9 @@ title: "Undergraduate Research Intern"
 collection: teaching
 type: "Undergraduate Thesis"
 permalink: /teaching/2015-spring-teaching-1
-venue: ""
+venue: "Computational Data Science Department, Indian Institute of Science"
 date: 2019-06-01
-location: "Computational Data Science Department, Indian Institute of Science - Bangalore, India"
+location: "Bangalore, India"
 ---
 
 Research Intern in the Medical Image Processing (MIG) lab headed by Prof.[Phaneendra Yalavarthy](http://cds.iisc.ac.in/faculty/yalavarthy/) of the Computational Data Science department at IISc, Bangalore. 
