@@ -2,7 +2,7 @@
 title: "Graduate Research Assistant"
 collection: teaching
 type: "Graduate Research"
-permalink: /teaching/2015-spring-teaching-20
+permalink: /teaching/2015-spring-teaching-4
 venue: "Computational Data Science Department, Indian Institute of Science"
 date: 2020-06-01
 location: "Bangalore, India"
