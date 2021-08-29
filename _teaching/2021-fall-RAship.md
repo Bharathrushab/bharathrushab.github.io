@@ -2,7 +2,7 @@
 title: "Graduate Research Assistant"
 collection: teaching
 type: "Graduate Research"
-permalink: /teaching/fall-2021-RAship
+permalink: /teaching/2021-fall-RAship
 venue: "School of Engineering and Applied Sciences, University of Pennsylvania"
 date: 2021-09-01
 location: "Philadelphia, U.S.A."
