@@ -16,6 +16,13 @@ Education
 
 Work experience
 ======
+
+* **June 2020 - July 2021:** Research Assistant
+  * **Location:** Computer and Information Science Department, University of Pennsylvania
+  * **Duties included:** 
+       * Work on projects on how language use varies with depression
+  * **Supervisor:** Professor [Lyle Ungar](https://www.cis.upenn.edu/~ungar/) and Prof. [Sharath Chandra Guntuku](https://sharathg.cis.upenn.edu)
+  
 * **June 2020 - July 2021:** Research Assistant
   * **Location:** Indian Institute of Science, Bangalore - India (Collaboration with the Royal Dutch Shell Technology Centre, India)
   * **Duties included:** 
