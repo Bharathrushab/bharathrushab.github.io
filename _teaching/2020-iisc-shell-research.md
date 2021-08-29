@@ -1,5 +1,5 @@
 ---
-title: "Graduate Research Assistant"
+title: "Graduate Research Assistant (IISc)"
 collection: teaching
 type: "Graduate Research"
 permalink: /teaching/2020-iisc-shell-research
