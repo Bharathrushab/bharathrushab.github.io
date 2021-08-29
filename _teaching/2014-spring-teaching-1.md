@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Computer Programming, Computer Science Department, BITS Pilani - India"
+date: 2017-01-08
+location: "Hyderabad, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Assistant to Professor [Barsha Mitra](https://universe.bits-pilani.ac.in/hyderabad/barshamitra/Profile) for the course CS F111 Computer Programming (Lecture, Practical).
 
-Heading 1
+Course Overview
+======
+The primary goals of the course are to introduce basic representation of data and how to process data using the representation inside a computer, techniques for specifying data, operations on data, and problem solving using a programming language, and, systematic techniques and approaches for constructing programs.
+
+
+My Contribution
 ======
 
-Heading 2
-======
-
-Heading 3
-======
+Provided learning support to 300+ students as lab assistant to Prof.Barsha Mitra. Helped with evaluating test answer sheets. 
