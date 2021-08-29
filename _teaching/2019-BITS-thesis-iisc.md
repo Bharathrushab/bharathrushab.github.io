@@ -2,7 +2,7 @@
 title: "Undergraduate Research Intern"
 collection: teaching
 type: "Undergraduate Thesis"
-permalink: /teaching/BITS-thesis-iisc
+permalink: /teaching/2019-BITS-thesis-iisc
 venue: "Computational Data Science Department, Indian Institute of Science"
 date: 2019-06-01
 location: "Bangalore, India"
