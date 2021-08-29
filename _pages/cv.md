@@ -17,13 +17,13 @@ Education
 Work experience
 ======
 
-* **June 2020 - July 2021:** Research Assistant
+* **September 2021 - Present:** Graduate Research Assistant
   * **Location:** Computer and Information Science Department, University of Pennsylvania
   * **Duties included:** 
        * Work on projects on how language use varies with depression
   * **Supervisor:** Professor [Lyle Ungar](https://www.cis.upenn.edu/~ungar/) and Prof. [Sharath Chandra Guntuku](https://sharathg.cis.upenn.edu)
   
-* **June 2020 - July 2021:** Research Assistant
+* **June 2020 - July 2021:** Graduate Research Assistant
   * **Location:** Indian Institute of Science, Bangalore - India (Collaboration with the Royal Dutch Shell Technology Centre, India)
   * **Duties included:** 
        * Developed a GAN (Generative Adversarial Network)-based deep learning technique to successfully generate super-resolved digital rock images from their low-resolution digital rock images which were acquired using CT scans of various sedimentary rocks. Studying the porosity of these super resolved rocks will facilitate the oil companies to identify the suitable location for oil drilling.Tech Stack: PyTorch library in Python, CUDA.
