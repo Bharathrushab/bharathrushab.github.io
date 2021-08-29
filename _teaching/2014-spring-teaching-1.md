@@ -1,10 +1,10 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Economics Department, BITS Pilani - India"
-date: 2018-01-01 to 2019-30-04 
+date: 2018-19
 location: "Hyderabad, India"
 ---
 **Courses** : Econometric Methods, Economics of Growth and Development, Economic Environment of Business
