@@ -3,9 +3,9 @@ title: "Graduate Research Assistant"
 collection: teaching
 type: "Graduate Research"
 permalink: /teaching/research_work_2
-venue: "School of Engineering and Applied Sciences,"
+venue: "School of Engineering and Applied Sciences, University of Pennsylvania"
 date: 2020-06-01
-location: "University of Pennsylvania"
+location: "Philadelphia, U.S.A."
 ---
 
 Research Assistant to Dr. [Lyle Ungar](https://www.cis.upenn.edu/~ungar/), Professor in Computer and Information Science at Penn Engineering and Psychology at the School of Arts & Sciences, and, Dr. [Sharath Chandra Guntuku](https://sharathg.cis.upenn.edu), an Assistant Professor (Research) in the Department of Computer and Information Science at the University of Pennsylvania.
