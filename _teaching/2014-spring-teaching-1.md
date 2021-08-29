@@ -3,19 +3,14 @@ title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Computer Programming, Computer Science Department, BITS Pilani - India"
-date: 2017-01-08
+venue: "Economics Department, BITS Pilani - India"
+date: 2018-01-01 to 2019-30-04 
 location: "Hyderabad, India"
 ---
-
-Teaching Assistant to Professor [Barsha Mitra](https://universe.bits-pilani.ac.in/hyderabad/barshamitra/Profile) for the course CS F111 Computer Programming (Lecture, Practical).
-
-Course Overview
-======
-The primary goals of the course are to introduce basic representation of data and how to process data using the representation inside a computer, techniques for specifying data, operations on data, and problem solving using a programming language, and, systematic techniques and approaches for constructing programs.
-
+**Courses** : Econometric Methods, Economics of Growth and Development, Economic Environment of Business
 
 My Contribution
 ======
 
-Provided learning support to 300+ students as lab assistant to Prof.Barsha Mitra. Helped with evaluating test answer sheets. 
+Assisted the Head of the Economics Department.  Liaised between 40+ students and the respective professor, provided support during assignments and evaluation.
+
