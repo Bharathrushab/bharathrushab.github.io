@@ -7,10 +7,12 @@ venue: "Economics Department, BITS Pilani - India"
 date: 2018-01-01
 location: "Hyderabad, India"
 ---
-**Courses** : Econometric Methods, Economics of Growth and Development, Economic Environment of Business
+**Courses:** 
+* Teaching Assistant to the head of the Economics department Prof. [Sudatta Banerjee](https://universe.bits-pilani.ac.in/hyderabad/sudatta/profile) for the course Economic Environment of Business.
+* Teaching assistant to Prof. [Bheemeshwar](https://universe.bits-pilani.ac.in/hyderabad/bheemeshwar/Profile) for the courses Econometric Methods ,and Economics of Growth and Development. 
 
 My Contribution
 ======
 
-Assisted the Head of the Economics Department.  Liaised between 40+ students and the respective professor, provided support during assignments and evaluation.
+Liaised between 40+ students and the respective professor, provided support during assignments and evaluation.
 
