@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "√"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Economics Department, BITS Pilani - India"
+date: 2018-01-01 to 2019-30-04 
+location: "Hyderabad, India"
 ---
+**Courses** : Econometric Methods, Economics of Growth and Development, Economic Environment of Business
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+My Contribution
 ======
 
-Heading 2
-======
-
-Heading 3
-======
+Assisted the Head of the Economics Department.  Liaised between 40+ students and the respective professor, provided support during assignments and evaluation.
