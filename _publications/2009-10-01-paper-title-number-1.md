@@ -8,5 +8,5 @@ venue: 'International Conference on Mobile Computing and Sustainable Informatics
 paperurl: 'https://www.springer.com/gp/book/9783030497941'
 
 ---
-Built a Web application using MERN stack to enhance classroom interaction via real-time feedback and queries
+Built a Web application using MERN stack to enhance classroom interaction via real-time feedback and queries.
 
