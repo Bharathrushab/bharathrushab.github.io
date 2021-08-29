@@ -8,8 +8,8 @@ date: 2018-01-01
 location: "Hyderabad, India"
 ---
 **Courses:** 
-* Teaching Assistant to the head of the Economics department Prof. [Sudatta Banerjee](https://universe.bits-pilani.ac.in/hyderabad/sudatta/profile) for the course Economic Environment of Business.
-* Teaching assistant to Prof. [Bheemeshwar](https://universe.bits-pilani.ac.in/hyderabad/bheemeshwar/Profile) for the courses Econometric Methods ,and Economics of Growth and Development. 
+* Teaching Assistant to the head of the Economics department Prof. [Sudatta Banerjee](https://universe.bits-pilani.ac.in/hyderabad/sudatta/profile) for Economic Environment of Business course.
+* Teaching assistant to Prof. [Bheemeshwar](https://universe.bits-pilani.ac.in/hyderabad/bheemeshwar/Profile) for the courses Econometric Methods, and, Economics of Growth and Development. 
 
 My Contribution
 ======
