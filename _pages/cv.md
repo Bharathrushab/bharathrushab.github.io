@@ -16,27 +16,25 @@ Education
 
 Work experience
 ======
-* June 2020 - July 2021: Research Assistant
-  * Location: Indian Institute of Science, Bangalore - India (Collaboration with the Royal Dutch Shell Technology Centre, India)
-  * Duties included: 
-        * Developed a GAN (Generative Adversarial Network)-based deep learning technique to successfully generate super-resolved digital rock images from their low-resolution digital rock images which were acquired using CT scans of various sedimentary rocks. Studying the porosity of these super resolved rocks will facilitate the oil companies to identify the suitable location for oil drilling.
-Tech Stack: PyTorch library in Python, CUDA.
-        * Worked on developing a 3D CNN model to simultaneously super-resolve and segment the low-resolution digital rock images. 
-Tech Stack: PyTorch library in Python, CUDA.
-  * Supervisor: Professor [Phaneendra Yalavarthy](http://cds.iisc.ac.in/faculty/yalavarthy/)
+* **June 2020 - July 2021:** Research Assistant
+  * **Location:** Indian Institute of Science, Bangalore - India (Collaboration with the Royal Dutch Shell Technology Centre, India)
+  * **Duties included:** 
+       * Developed a GAN (Generative Adversarial Network)-based deep learning technique to successfully generate super-resolved digital rock images from their low-resolution digital rock images which were acquired using CT scans of various sedimentary rocks. Studying the porosity of these super resolved rocks will facilitate the oil companies to identify the suitable location for oil drilling.Tech Stack: PyTorch library in Python, CUDA.
+       * Worked on developing a 3D CNN model to simultaneously super-resolve and segment the low-resolution digital rock images. Tech Stack: PyTorch library in Python, CUDA.
+  * **Supervisor:** Professor [Phaneendra Yalavarthy](http://cds.iisc.ac.in/faculty/yalavarthy/)
 
-* June 2019 - April 2020: Undergraduate Research Intern
-  * Location: Indian Institute of Science, Bangalore - India (Collaboration with the Royal Dutch Shell Technology Centre, India)
-  * Duties included: 
-        * In Collaboration with the Royal Dutch Shell Technology Centre, India : Designed a feature extraction and segmentation-based algorithm to correct the inherent rotational and translationalmisalignments caused while recording Transmission electron microscopy (TEM) 2D tilt series projections.Backprojected and reconstructed the company’s corresponding catalyst crystal volumes accurately
-        * Worked on implementing current models and developing a faster and accurate deep network-based algorithm tostudy and improve the compressed sensing based reconstruction of Magnetic Resonance Imaging (MRI) data 
-  * Supervisor: Professor [Phaneendra Yalavarthy](http://cds.iisc.ac.in/faculty/yalavarthy/), Prof. [Chittaranjan Hota](https://www.bits-pilani.ac.in/hyderabad/chittaranjanhota/Profile)
+* **June 2019 - April 2020:** Undergraduate Research Intern
+  * **Location:** Indian Institute of Science, Bangalore - India (Collaboration with the Royal Dutch Shell Technology Centre, India)
+  * **Duties included:** 
+       * In Collaboration with the Royal Dutch Shell Technology Centre, India : Designed a feature extraction and segmentation-based algorithm to correct the inherent rotational and translationalmisalignments caused while recording Transmission electron microscopy (TEM) 2D tilt series projections.Backprojected and reconstructed the company’s corresponding catalyst crystal volumes accurately
+       * Worked on implementing current models and developing a faster and accurate deep network-based algorithm tostudy and improve the compressed sensing based reconstruction of Magnetic Resonance Imaging (MRI) data 
+  * **Supervisor:** Professor [Phaneendra Yalavarthy](http://cds.iisc.ac.in/faculty/yalavarthy/), Prof. [Chittaranjan Hota](https://www.bits-pilani.ac.in/hyderabad/chittaranjanhota/Profile)
   
 Skills
 ======
-* Programming Languages:  Python, MATLAB, C/C++, Java, R, HTML/CSS
-* Deep-Learning Frameworks:  PyTorch, Keras
-* Tools:  Image Processing Toolbox, OpenCV, Scrapy, SQL, MS Office, LaTeX, GitHub
+* **Programming Languages:**  Python, MATLAB, C/C++, Java, R, HTML/CSS
+* **Deep-Learning Frameworks:**  PyTorch, Keras
+* **Tools:**  Image Processing Toolbox, OpenCV, Scrapy, SQL, MS Office, LaTeX, GitHub
 
 Publications
 ======
