@@ -24,7 +24,7 @@ Work experience
   * **Supervisor:** Professor [Lyle Ungar](https://www.cis.upenn.edu/~ungar/) and Prof. [Sharath Chandra Guntuku](https://sharathg.cis.upenn.edu)
   
 * **June 2020 - July 2021:** Graduate Research Assistant
-  * **Location:** Indian Institute of Science, Bangalore - India (Collaboration with the Royal Dutch Shell Technology Centre, India)
+  * **Location:** Computational Data Science Department, Indian Institute of Science, Bangalore - India (Collaboration with the Royal Dutch Shell Technology Centre, India)
   * **Duties included:** 
        * Developed a GAN (Generative Adversarial Network)-based deep learning technique to successfully generate super-resolved digital rock images from their low-resolution digital rock images which were acquired using CT scans of various sedimentary rocks. Studying the porosity of these super resolved rocks will facilitate the oil companies to identify the suitable location for oil drilling.Tech Stack: PyTorch library in Python, CUDA.
        * Worked on developing a 3D CNN model to simultaneously super-resolve and segment the low-resolution digital rock images. Tech Stack: PyTorch library in Python, CUDA.
