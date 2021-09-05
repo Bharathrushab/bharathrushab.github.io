@@ -68,7 +68,7 @@ Certificates & Achievements
 * **5th Summer School on AI with focus on CV and ML:** IIIT Hyderabad (Selected and enrolled) \[Aug 2021]
 * **Introduction to Machine Learning in Production:** Deeplearning.ai, Coursera \[Jun 2021]
 * **Generative Adversarial Networks specialization (3 courses):** Deeplearning.ai, Coursera \[Jun 2020]
-* **Winner | IEEE Xplore Challenge for Researchers in India**: \[Nov 2020]
+* **Winner - IEEE Xplore Challenge for Researchers in India**: \[Nov 2020]
 * **Solutions architect - Amazon Web Services Course:** Linux Academy \[Jun 2018]
 * **Microsoft Technology Associate in Azure Cloud:** Verzeo Edutech \[Apr 2018]
 * **R programming training:** Innodatatics USA \[Aug 2017]
