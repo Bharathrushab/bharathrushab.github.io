@@ -36,7 +36,52 @@ Work experience
        * In Collaboration with the Royal Dutch Shell Technology Centre, India : Designed a feature extraction and segmentation-based algorithm to correct the inherent rotational and translationalmisalignments caused while recording Transmission electron microscopy (TEM) 2D tilt series projections.Backprojected and reconstructed the company’s corresponding catalyst crystal volumes accurately
        * Worked on implementing current models and developing a faster and accurate deep network-based algorithm tostudy and improve the compressed sensing based reconstruction of Magnetic Resonance Imaging (MRI) data 
   * **Supervisor:** Professor [Phaneendra Yalavarthy](http://cds.iisc.ac.in/faculty/yalavarthy/), Prof. [Chittaranjan Hota](https://www.bits-pilani.ac.in/hyderabad/chittaranjanhota/Profile)
+ 
+
+Projects
+======
+* **Input Movie Plot based Anime Poster Suggestion:** Sept 2020
+  * **Description:** 
+      * Scraped Movie and Anime titles, plots and posters data from IMDB and MyAnimeList websites
+      * Evaluated the performance of various Image Translation models to generate an anime version of the movie poster corresponding to the semantically similar movie plot (using Universal Sentence Encoder)
+  * **Tech Stack:** TensorFlow Hub, Scrapy, PyTorch
+  * **[Code](https://github.com/shivanirapole/Poster_Suggestion)** 
   
+* **Social Distancing Detector:** Aug 2020
+  * **Description:** 
+      * Detected people in a frame by finetuning Mask-RCNN model and predicted the ones who are at risky distance
+  * **Tech Stack:** PyTorch, OpenCV 
+  * **[Code](https://github.com/shivanirapole/Social_Distancing)** 
+  
+* **ClassPulse Web Application:** Jan 2019 -- Apr 2019
+  * **Description:** 
+      * Built a Web application using MERN stack to enhance classroom interaction via real-time feedback and queries
+      * Accepted for publication at the [International Conference on Mobile Computing and Sustainable Informatics - 2020](https://www.springer.com/gp/book/9783030497941)
+  * **Tech Stack:** React, MongoDB, Express, NodeJS, Heroku 
+
+* **Machine Learning and Information Retrieval projects:** Aug 2018 -- Nov 2018
+  * **Description:** 
+      * Implemented Fischer Discriminant, Perceptron classification models, and CNN for image classification [[code]](https://github.com/shivanirapole/Binary_Classification)
+      * Built a movie-recommender system by implementing Collaborative Filtering, SVD and CUR approaches [[code]](https://github.com/shivanirapole/Recommender_System)
+      * Implemented IBM models and EM algorithm for Machine Translation [[code]](https://github.com/shivanirapole/Machine-Translation-models)
+      * Built a search system which gives the corresponding recipe for the food item in the input image using Google’s cloud vision API. Implemented Tf-Idf model for ranking the retrieved recipes
+  * **Tech Stack:** Python
+
+* **Hospital Database Management System:** Jan 2018 -- Apr 2018
+  * **Description:** 
+      * Lead the team project, normalized the hospital database structure and wrote SQL queries for complex retrievals
+      * Built a website to check the availability of hospital rooms and staff to match them with the incoming patients
+  * **Tech Stack:** Java, MySQL
+
+* **Quiz Generator:** Aug 2017 -- Nov 2017
+  * **Description:** 
+      * Developed a tool that will enable one to randomly generate a quiz containing the specified number of questions from a question bank. 
+      * Users can also edit the question bank by inserting/deleting/modifying questions as they see fit
+  * **Tech Stack:** Java
+
+<!--   * **[Code](https://github.com/shivanirapole/Social_Distancing)**  -->
+
+
 Skills
 ======
 * **Programming Languages:**  Python, MATLAB, C/C++, Java, R, HTML/CSS
