@@ -16,3 +16,13 @@ Prior to joining the Master's program at Penn, I had worked in a collaborative e
 Research Interest
 ------
 I am interested in developing cross-disciplinary deep learning solutions, in particular Computer Vision (CV), Natural Language Processing (NLP) and Robotics. During my Master's at Penn, I aim to fully use the resources to explore and work on applications in NLP domain and further work on systems that belong to the intersection of natural language and computer vision.  
+
+Affiliations
+-----
+* [World Well Being Project](http://www.wwbp.org/about.html)
+
+Other Interests
+-----
+* Passionate about trying different forms of art. Check out my profile [here](https://www.instagram.com/shivz.art/)
+* Fond of photography
+* Love star gazing and sky watching
