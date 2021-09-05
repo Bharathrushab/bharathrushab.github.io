@@ -1,11 +1,11 @@
 ---
-title: "iamese-SR: A SiameseSuper-Resolution Modelfor Improved Petrophysical Parameter Estimation in Digital Rock"
+title: "Siamese-SR: A SiameseSuper-Resolution Modelfor Improved Petrophysical Parameter Estimation in Digital Rock"
 collection: publications
 permalink: /publication/paper2
 excerpt: 'This paper is about a novel Generative Adversarial Network based model to super resolve digital rock images'
 date: 2020-10-01
 venue: 'Under review at the IEEE Transactions on Image Processing'
-<!-- paperurl: 'https://www.springer.com/gp/book/9783030497941' -->
+paperurl: ''
 
 ---
 
