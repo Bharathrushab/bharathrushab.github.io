@@ -26,3 +26,7 @@ Other Interests
 * Passionate about trying different forms of art. Check out my profile [here](https://www.instagram.com/shivz.art/)
 * Fond of photography
 * Love star gazing and sky watching
+
+Contact
+-----
+Mail: srapole@seas.upenn.edu
