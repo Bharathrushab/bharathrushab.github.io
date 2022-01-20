@@ -34,14 +34,15 @@ DLATK is an end to end human text analysis package, specifically suited for soci
 1. feature extraction
 2. part-of-speech tagging
 3. correlation
-prediction and classification
-mediation
-dimensionality reduction and clustering
-wordcloud visualization
+4. prediction and classification
+5. mediation
+6. dimensionality reduction and clustering
+7. wordcloud visualization
+
 DLATK can utilize:
 
-Mallet for creating LDA topics
-Stanford Parser
-CMU’s TweetNLP
-pandas dataframe output
+1. Mallet for creating LDA topics
+2. Stanford Parser
+3. CMU’s TweetNLP
+4. pandas dataframe output
 
