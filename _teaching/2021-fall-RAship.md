@@ -18,11 +18,12 @@ Professor [Lyle Ungar](https://www.cis.upenn.edu/~ungar/) is a renowned expert i
 
 My Contribution
 ======
-Mine the data from over 50 different subreddits that possibly resonate with the 4 broader groups (Diet, Physical Activities, Substance Use & Smoking) using the pushshift API
-Shortlist the subreddits based on number of posts, comments and members of subreddits
-Perform exploratory data analysis on the finalized 22 subreddits containing approximately 1 Million posts and 2.7 Million comments
-Leverage DLATK package for Python to identify latent topics present in the posts and comments through Latent Dirichlet Allocation (LDA; Blei et al., 2003)
-Perform temporal analysis on the topics generated to record inference
+1. Shortlisted a set of 30 subreddits based on depression research and questionnaires like PHQ9, BDI-2, CESD-R
+2. Mined the data from the subreddits that possibly resonate with the 10 depression symptoms and the corresponding control data of the same set of users using the pushshift API
+3. Cleaned the data containing approximately 100k posts by removing bots, empty posts, replacing URLs, etc
+4. Leveraged [DLATK](http://dlatk.wwbp.org/index.html) package for Python to create n-grams, identify latent topics present in the posts and comments through Latent Dirichlet Allocation (LDA; Blei et al., 2003) and then extract LDA, Linguistic Inquiry and Word Count (LIWC) and Bidirectional Encoder Representations from Transformers (BERT) embeddings. 
+5. Comparing the performance of models like Logistic Regression with regularization, Random Forest Classifier, Extra trees Classifier, Multi-task Learning to predict the depression symptom of a reddit post. 
+6. Further, perform differential language analysis to understand the language use of people varies across different depression symptoms
 
 Differential Language Analysis ToolKit (DLATK)
 ======
