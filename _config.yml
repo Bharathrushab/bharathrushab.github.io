@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+io# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shivani R Rapole"
 title_separator          : "-"
 name                     : &name "Shivani R Rapole"
-description              : &description "CIS Graduate student at the University of Pennsylvania with specialization in Machine Learning"
+description              : &description "CIS Graduate student at the University of Pennsylvania with concentration in Artificial Intelligence"
 url                      : https://shivanirapole.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shivanirapole/shivanirapole.github.io"
