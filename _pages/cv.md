@@ -40,6 +40,21 @@ Work experience
 
 Projects
 ======
+* **End to end learning of steering commands for self driving:** Nov 2021 -- Dec 2021
+  * **Description:** 
+      * 
+  * **Tech Stack:** PyTorch
+
+* **Personality Detection of Movie Characters based on Movie Scripts:** Nov 2021 -- Dec 2021
+  * **Description:** 
+      * 
+  * **Tech Stack:** PyTorch
+
+* **PennCloud - A platform for webmail and storage service:** Nov 2021 -- Dec 2021
+  * **Description:** 
+      * 
+  * **Tech Stack:** C++
+ 
 * **Input Movie Plot based Anime Poster Suggestion:** Sept 2020
   * **Description:** 
       * Scraped Movie and Anime titles, plots and posters data from IMDB and MyAnimeList websites
@@ -110,7 +125,7 @@ Research & Teaching
   
 Certificates & Achievements
 ======
-* **5th Summer School on AI with focus on CV and ML:** IIIT Hyderabad (Selected and enrolled) \[Aug 2021]
+* **5th Summer School on AI with focus on CV and ML:** IIIT Hyderabad \[Aug 2021]
 * **Introduction to Machine Learning in Production:** Deeplearning.ai, Coursera \[Jun 2021]
 * **Generative Adversarial Networks specialization (3 courses):** Deeplearning.ai, Coursera \[Jun 2020]
 * **Winner - IEEE Xplore Challenge for Researchers in India**: \[Nov 2020]
