@@ -42,19 +42,23 @@ Projects
 ======
 * **End to end learning of steering commands for self driving:** Nov 2021 -- Dec 2021
   * **Description:** 
-      * 
+      * Simulated self-driving car data (around 28k images from cameras mounted on the vehicle) using Udacity's [simulator](https://github.com/udacity/self-driving-car-sim) along with 2 students
+      * Predicted steering angle and throttle based on these images using CNN and multi-task learning
   * **Tech Stack:** PyTorch
+  * **[Code and Report](https://github.com/shivanirapole/End-to-end-learning-of-steering-commands-for-self-driving)**
 
 * **Personality Detection of Movie Characters based on Movie Scripts:** Nov 2021 -- Dec 2021
   * **Description:** 
-      * 
+      * Trained and compared the performance of various machine learning models, word embeddings to predict the [Big Five personality traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits) based on social media data along with 2 students
+      * Applied the best model (Multi-layer perceptron with BERT embeddings) on movie scripts to understand the character’s emotions in each scene
   * **Tech Stack:** PyTorch
+  * **[Report](https://github.com/shivanirapole/Personality-Detection-of-Movie-Characters-based-on-Movie-Scripts/blob/main/519_Final_Report.pdf)**
 
-* **PennCloud - A platform for webmail and storage service:** Nov 2021 -- Dec 2021
+* **PennCloud - A distributed platform for webmail and storage service:** Nov 2021 -- Dec 2021
   * **Description:** 
-      * 
+      * Co-designed and developed a distributed key-value store, multiple frontend and backend servers with a reasonable amount of replication, consistency and fault tolerance along with 3 peers
   * **Tech Stack:** C++
- 
+  * **[Report](https://github.com/shivanirapole/PennCloud/blob/main/PennCloud_Report_T09.pdf)**
 * **Input Movie Plot based Anime Poster Suggestion:** Sept 2020
   * **Description:** 
       * Scraped Movie and Anime titles, plots and posters data from IMDB and MyAnimeList websites
@@ -93,7 +97,6 @@ Projects
       * Developed a tool that will enable one to randomly generate a quiz containing the specified number of questions from a question bank. 
       * Users can also edit the question bank by inserting/deleting/modifying questions as they see fit
   * **Tech Stack:** Java
-
 <!--   * **[Code](https://github.com/shivanirapole/Social_Distancing)**  -->
 
 
