@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Shivani R Rapole CV"
+title: "Shivani R Rapole"
 permalink: /cv/
 author_profile: true
 redirect_from:
