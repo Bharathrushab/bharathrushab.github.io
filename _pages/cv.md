@@ -44,14 +44,14 @@ Projects
   * **Description:** 
       * Simulated self-driving car data (around 28k images from cameras mounted on the vehicle) using Udacity's [simulator](https://github.com/udacity/self-driving-car-sim) along with 2 students
       * Predicted steering angle and throttle based on these images using CNN and multi-task learning
-  * **Tech Stack:** PyTorch
+  * **Tech Stack:** Python, PyTorch
   * **[Code and Report](https://github.com/shivanirapole/End-to-end-learning-of-steering-commands-for-self-driving)**
 
 * **Personality Detection of Movie Characters based on Movie Scripts:** Nov 2021 -- Dec 2021
   * **Description:** 
       * Trained and compared the performance of various machine learning models, word embeddings to predict the [Big Five personality traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits) based on social media data along with 2 students
       * Applied the best model (Multi-layer perceptron with BERT embeddings) on movie scripts to understand the character’s emotions in each scene
-  * **Tech Stack:** PyTorch
+  * **Tech Stack:** Python, PyTorch
   * **[Report](https://github.com/shivanirapole/Personality-Detection-of-Movie-Characters-based-on-Movie-Scripts/blob/main/519_Final_Report.pdf)**
 
 * **PennCloud - A distributed platform for webmail and storage service:** Nov 2021 -- Dec 2021
