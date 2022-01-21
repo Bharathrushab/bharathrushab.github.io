@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Master of Science in Engineering in Computer and Information Science (CIS/MSE), University of Pennsylvania, 2021-2023 (expected)
-* M.Sc. (Hons.) Economics and B.E. (Hons.) Computer Science, Birla Institute of Technology and Science (BITS) Pilani - India, 2015-2020 [CGPA: 9.4/10]
+* Master of Science in Engineering in Computer and Information Science (CIS/MSE), University of Pennsylvania, Concentration: Artificial Intelligence, 2021-2023 [current GPA: 3.9/4.0]
+* M.Sc. (Hons.) Economics and B.E. (Hons.) Computer Science, Birla Institute of Technology and Science (BITS) Pilani - India, 2015-2020 [GPA: 9.4/10]
 
 Work experience
 ======
