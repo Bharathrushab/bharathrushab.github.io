@@ -18,9 +18,9 @@ Work experience
 ======
 
 * **September 2021 - Present:** Graduate Research Assistant
-  * **Location:** Computer and Information Science Department, University of Pennsylvania
+  * **Location:** World Well-Being Project, University of Pennsylvania
   * **Duties included:** 
-       * Work on projects on how language use varies with depression
+       * Leveraging single- and multi-task Natural Language Processing to predict depression symptoms and languageanalysis from around 1 million Reddit posts
   * **Supervisor:** Professor [Lyle Ungar](https://www.cis.upenn.edu/~ungar/) and Prof. [Sharath Chandra Guntuku](https://sharathg.cis.upenn.edu)
   
 * **June 2020 - July 2021:** Graduate Research Assistant
