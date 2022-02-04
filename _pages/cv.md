@@ -56,9 +56,12 @@ Projects
 
 * **PennCloud - A distributed platform for webmail and storage service:** Nov 2021 -- Dec 2021
   * **Description:** 
-      * Co-designed and developed a distributed key-value store, multiple frontend and backend servers with a reasonable amount of replication, consistency and fault tolerance along with 3 peers
-  * **Tech Stack:** C++
-  * **[Report](https://github.com/shivanirapole/PennCloud/blob/main/PennCloud_Report_T09.pdf)**
+    * Built a full-stack distributed cloud platform with webmail and storage service, analogous to Gmail and Google Drive
+    * Designed a highly scalable, fault-tolerant key-value data store at the backend similar to Google’s Bigtable that supports efficient consistency, replication, robust checkpointing, and recovery
+    * Implemented load-balancing of multiple frontend servers that users can access from their browsers
+
+   * **Tech Stack:** C/C++, HTML, CSS
+   * **[Report](https://github.com/shivanirapole/PennCloud/blob/main/PennCloud_Report_T09.pdf)**
 * **Input Movie Plot based Anime Poster Suggestion:** Sept 2020
   * **Description:** 
       * Scraped Movie and Anime titles, plots and posters data from IMDB and MyAnimeList websites
