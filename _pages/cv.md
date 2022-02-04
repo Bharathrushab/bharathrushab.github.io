@@ -49,7 +49,7 @@ Projects
 
 * **Personality Detection of Movie Characters based on Movie Scripts:** Nov 2021 -- Dec 2021
   * **Description:** 
-      * Trained and compared the performance of various machine learning models, word embeddings to predict the [Big Five personality traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits) based on social media data along with 2 students
+      * Trained and compared the performance of various machine learning models like Decision Trees, SVM, XGBoost, Multi-layer perceptron and word embeddings like BERT, Glove, Word2Vec to predict the Big Five personality traits based on social media data 
       * Applied the best model (Multi-layer perceptron with BERT embeddings) on movie scripts to understand the character’s emotions in each scene
   * **Tech Stack:** Python, PyTorch
   * **[Report](https://github.com/shivanirapole/Personality-Detection-of-Movie-Characters-based-on-Movie-Scripts/blob/main/519_Final_Report.pdf)**
