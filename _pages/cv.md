@@ -115,7 +115,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   * [Shivani Reddy Rapole, Vijitha Gunta, Narsimha Bolloju. Class Pulse:  A SMAC Application to Enhance Student Feedback and Interaction](https://www.springer.com/gp/book/9783030497941)
-  * [Shivani Reddy Rapole, Utkarsh Gupta, Vishal Ahuja, Phaneendra Yalavarthy, Nishank Saxena, Ronny Hofmann, Ruarri J. Day-Stirrat, Jaya Prakash.  Siamese-SR: A Siamese Super-Resolution Model for Improved Petrophysical Parameter Estimation in Digital Rock](https://ieeexplore.ieee.org/search/searchresult.jsp?searchWithin=%22First%20Name%22:%22Shivani%20R.%22&searchWithin=%22Last%20Name%22:%22Rapole%22&newsearch=true&sortType=newest) 
+  * [Shivani Reddy Rapole, Utkarsh Gupta, Vishal Ahuja, Phaneendra Yalavarthy, Nishank Saxena, Ronny Hofmann, Ruarri J. Day-Stirrat, Jaya Prakash.  Siamese-SR: A Siamese Super-Resolution Model for Improved Petrophysical Parameter Estimation in Digital Rock](https://ieeexplore.ieee.org/document/9771091) 
   
 <!-- Talks
 ======
