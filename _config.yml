@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shivani R Rapole"
+title                    : "Bharathrushab Manthripragada"
 title_separator          : "-"
-name                     : &name "Shivani R Rapole"
-description              : &description "CIS Graduate student at the University of Pennsylvania with concentration in Artificial Intelligence"
+name                     : &name "Bharathrushab Manthripragada"
+description              : &description "Data Science Graduate student at the University of Pennsylvania with concentration in Artificial Intelligence"
 url                      : https://shivanirapole.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shivanirapole/shivanirapole.github.io"
+repository               : "Bharathrushab/bharathrushab.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shivani R Rapole"
+  name             : "Bharathrushab Manthripragada"
   avatar           : "IMG_20210507_193420_394.jpg"
-  bio              : "CIS Graduate student at the University of Pennsylvania with specialization in Machine Learning"
+  bio              : "Data Science Graduate student at the University of Pennsylvania with specialization in Machine Learning"
   location         : "University of Pennsylvania"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "srapole@seas.upenn.edu"
+  email            : "mbharath@seas.upenn.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shivanirapole"
+  github           : "Bharathrushab"
   google_plus      :
   keybase          :
-  instagram        : "shivz.art"
+  instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "shivanireddyrapole"
-  orcid            : "https://orcid.org/0000-0002-9152-6774"
+  linkedin         : "bharath-rushab-manthripragada-a1110718a"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
